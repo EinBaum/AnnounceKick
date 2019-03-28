@@ -1,0 +1,6 @@
+#!/bin/bash
+
+mkdir AnnounceKick
+cp -R LICENSE README.md AnnounceKick.lua AnnounceKick.toc AnnounceKick
+zip -r AnnounceKick.zip AnnounceKick
+rm -rf AnnounceKick

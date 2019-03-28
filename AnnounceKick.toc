@@ -1,0 +1,10 @@
+## Interface: 11200
+## Title: Announce|cff60ff00Kick|r
+## Notes: Announce kick hit and miss.
+## Author: EinBaum
+## Version: 1.0.0
+## SavedVariables: 
+## Dependencies: 
+## OptionalDeps:
+
+AnnounceKick.lua
